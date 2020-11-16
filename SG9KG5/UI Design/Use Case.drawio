@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T12:00:27.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="3BRyTGctfdsFCersE4fV" version="13.9.9" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:16:57.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="IQ9bz7DhB2rhhAVkaNy2" version="13.9.9" type="github" pages="21">
   <diagram id="ZSvhpRfDg_mLDwADFdrZ" name="Tester Software System Use Case">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1674,6 +1674,9 @@
       <root>
         <mxCell id="qlA0EmYyQT1x0zzQ0clN-0" />
         <mxCell id="qlA0EmYyQT1x0zzQ0clN-1" parent="qlA0EmYyQT1x0zzQ0clN-0" />
+        <mxCell id="pYrdfnicT3KB0R7lqmVu-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qlA0EmYyQT1x0zzQ0clN-1">
+          <mxGeometry x="120" y="-60" width="850" height="990" as="geometry" />
+        </mxCell>
         <mxCell id="XOWluEnhBefUhkAsns5T-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="qlA0EmYyQT1x0zzQ0clN-1" source="CTzKu2M_SzrwhB23y-11-0" target="CTzKu2M_SzrwhB23y-11-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2033,14 +2036,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pYrdfnicT3KB0R7lqmVu-1" value="Tester Software System - Engineering Mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qlA0EmYyQT1x0zzQ0clN-1">
+          <mxGeometry x="480" y="-60" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="iGjAMq5ZnG9ja_wczgah" name="Engineering Mode - Site Control">
-    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NeRlViYM5WKImGnDVXnG-0" />
         <mxCell id="NeRlViYM5WKImGnDVXnG-1" parent="NeRlViYM5WKImGnDVXnG-0" />
+        <mxCell id="DVo2g3Gn7ENkbd1bZDmJ-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="NeRlViYM5WKImGnDVXnG-1">
+          <mxGeometry x="150" y="180" width="410" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="NeRlViYM5WKImGnDVXnG-1" source="NeRlViYM5WKImGnDVXnG-2" target="NeRlViYM5WKImGnDVXnG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NeRlViYM5WKImGnDVXnG-2" value="Engineering" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="NeRlViYM5WKImGnDVXnG-1">
           <mxGeometry x="70" y="330" width="30" height="60" as="geometry" />
         </mxCell>
@@ -2055,6 +2067,42 @@
         </mxCell>
         <mxCell id="NeRlViYM5WKImGnDVXnG-6" value="Deactivate Site" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="NeRlViYM5WKImGnDVXnG-1">
           <mxGeometry x="280" y="450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.579;exitY=-0.057;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="NeRlViYM5WKImGnDVXnG-1" source="NeRlViYM5WKImGnDVXnG-3" target="NeRlViYM5WKImGnDVXnG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="380.5312626584707" as="sourcePoint" />
+            <mxPoint x="229.4774746830583" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NeRlViYM5WKImGnDVXnG-7">
+          <mxGeometry x="0.3059" y="-3" relative="1" as="geometry">
+            <mxPoint y="4.85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="NeRlViYM5WKImGnDVXnG-1" source="NeRlViYM5WKImGnDVXnG-3" target="NeRlViYM5WKImGnDVXnG-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="450.5312626584707" as="sourcePoint" />
+            <mxPoint x="299.4774746830583" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NeRlViYM5WKImGnDVXnG-9">
+          <mxGeometry x="0.3059" y="-3" relative="1" as="geometry">
+            <mxPoint x="-9" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.614;exitY=1.014;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.257;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitPerimeter=0;" edge="1" parent="NeRlViYM5WKImGnDVXnG-1" source="NeRlViYM5WKImGnDVXnG-3" target="NeRlViYM5WKImGnDVXnG-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="470.5312626584707" as="sourcePoint" />
+            <mxPoint x="239.4774746830583" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NeRlViYM5WKImGnDVXnG-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NeRlViYM5WKImGnDVXnG-11">
+          <mxGeometry x="0.3059" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DVo2g3Gn7ENkbd1bZDmJ-1" value="Tester Software System&amp;nbsp; - Engineering Mode" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NeRlViYM5WKImGnDVXnG-1">
+          <mxGeometry x="280" y="180" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
