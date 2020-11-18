@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T13:21:44.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="b8oXuPxzaSy-HI_1aWfn" version="13.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-18T13:31:52.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="1khkqRjXhwdFutDaq-TN" version="13.9.6" type="github" pages="2">
   <diagram id="b_gKMMK5A8YkojekqlSx" name="Login">
-    <mxGraphModel dx="1038" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FdkJP2Va7QHmzXeb0406-0" />
         <mxCell id="FdkJP2Va7QHmzXeb0406-1" parent="FdkJP2Va7QHmzXeb0406-0" />
+        <mxCell id="FdkJP2Va7QHmzXeb0406-6" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;recursiveResize=0;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="230" y="90" width="450" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-31" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="470" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-32" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="470" y="200" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-34" value="SIGN IN" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=5;strokeColor=none;fontColor=#ffffff;fillColor=#66bbff;fontSize=16;fontStyle=1;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="505" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-35" value="user" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="470" y="135" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-36" value="Engineering" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="470" y="155" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-38" value="Logo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="260" y="154" width="170" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-39" value="Sign In" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="220" y="90" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FdkJP2Va7QHmzXeb0406-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.arc;startAngle=0.25;endAngle=1;strokeWidth=4;strokeColor=#0085FC;align=center;" vertex="1" parent="FdkJP2Va7QHmzXeb0406-1">
+          <mxGeometry x="440" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
