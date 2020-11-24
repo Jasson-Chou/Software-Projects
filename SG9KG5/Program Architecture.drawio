@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T11:26:18.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6Tvd4rd4IgdHQ4j-lw0v" version="13.10.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-24T11:27:39.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="WR6XDTpuo063_I29ieZM" version="13.10.0" type="github" pages="5">
   <diagram id="OKQYDSQJxJ16slkViCjl" name="System Initialization">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="LEsDbfgFkh9a0uxDBmZ5-0" />
         <mxCell id="LEsDbfgFkh9a0uxDBmZ5-1" parent="LEsDbfgFkh9a0uxDBmZ5-0" />
         <mxCell id="NmUFSTxGYC5thnAcawn--0" value="Tester Information&lt;br&gt;GUI ( View )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
-          <mxGeometry x="220" y="120" width="390" height="60" as="geometry" />
+          <mxGeometry x="220" y="110" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NmUFSTxGYC5thnAcawn--1" value="Tester Information&lt;br&gt;GUI Data &amp;amp; Command ( View-Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
           <mxGeometry x="220" y="220" width="390" height="60" as="geometry" />
@@ -51,7 +51,7 @@
         <mxCell id="NmUFSTxGYC5thnAcawn--2" value="Slot Data &lt;br&gt;( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
           <mxGeometry x="460" y="350" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NmUFSTxGYC5thnAcawn--3" value="System Initialize Service&amp;nbsp;&lt;br&gt;( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
+        <mxCell id="NmUFSTxGYC5thnAcawn--3" value="Tester Information Manager&amp;nbsp;&lt;br&gt;( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
           <mxGeometry x="220" y="350" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NmUFSTxGYC5thnAcawn--4" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.203;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LEsDbfgFkh9a0uxDBmZ5-1" source="NmUFSTxGYC5thnAcawn--1" target="NmUFSTxGYC5thnAcawn--3">
@@ -76,6 +76,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="490" as="sourcePoint" />
             <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6A7Hl5W7B5cYpLI3HFNu-0" value="System Initialize Service&amp;nbsp;&lt;br&gt;( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LEsDbfgFkh9a0uxDBmZ5-1">
+          <mxGeometry x="220" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6A7Hl5W7B5cYpLI3HFNu-1" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LEsDbfgFkh9a0uxDBmZ5-1" source="NmUFSTxGYC5thnAcawn--3" target="6A7Hl5W7B5cYpLI3HFNu-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.5800000000001" y="420.0000000000001" as="sourcePoint" />
+            <mxPoint x="300" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
