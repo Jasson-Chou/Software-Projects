@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T13:08:22.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ONkQ_bdtO7UV9JVKnUWI" version="13.10.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-11-24T13:18:02.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="IAbkn5Hbb22_aPTNmzNT" version="13.10.0" type="github" pages="13">
   <diagram id="OKQYDSQJxJ16slkViCjl" name="System Initialization">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -477,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yxu2Srvg3-0mVGAbFxmF" name="Eng - Test Flow">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a4aD3Sccwy7hD8KycwqT-0" />
         <mxCell id="a4aD3Sccwy7hD8KycwqT-1" parent="a4aD3Sccwy7hD8KycwqT-0" />
@@ -577,6 +577,59 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="510" as="sourcePoint" />
             <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RsKkPUNZWPENDsg3bofS" name="Eng - Data log">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="83CY6mMq5svZ1s-OU2ej-0" />
+        <mxCell id="83CY6mMq5svZ1s-OU2ej-1" parent="83CY6mMq5svZ1s-OU2ej-0" />
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-0" value="Data log View (GUI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry x="217" y="130" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-1" value="Data log&amp;nbsp;&lt;br&gt;Data &amp;amp; Command (View - Model)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry x="217" y="230" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-2" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="-5IS4aEjSGpm5U6egHGz-1" target="-5IS4aEjSGpm5U6egHGz-0" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="367" y="250" as="sourcePoint" />
+            <mxPoint x="417" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-3" value="Data log&amp;nbsp;&lt;br&gt;Manager ( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry x="219" y="340" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-4" value="Data log&amp;nbsp;&amp;nbsp;&lt;br&gt;Data ( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry x="470" y="340" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-5" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="-5IS4aEjSGpm5U6egHGz-3" target="-5IS4aEjSGpm5U6egHGz-4" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="420" as="sourcePoint" />
+            <mxPoint x="448" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-6" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.826;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="-5IS4aEjSGpm5U6egHGz-4" target="-5IS4aEjSGpm5U6egHGz-1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="628" y="380" as="sourcePoint" />
+            <mxPoint x="678" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-7" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="-5IS4aEjSGpm5U6egHGz-3" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128" y="340" as="sourcePoint" />
+            <mxPoint x="299" y="290.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-8" value="Data log&amp;nbsp;&lt;br&gt;Service ( Model )" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry x="219" y="441" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-5IS4aEjSGpm5U6egHGz-9" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" source="-5IS4aEjSGpm5U6egHGz-8" target="-5IS4aEjSGpm5U6egHGz-3" parent="83CY6mMq5svZ1s-OU2ej-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98" y="450" as="sourcePoint" />
+            <mxPoint x="148" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
