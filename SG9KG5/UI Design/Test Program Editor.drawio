@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T13:57:04.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="7P1CRb7oeRHrMzsx4Aw8" version="13.10.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-26T14:03:05.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="femf_lwaz5maoUcekTGk" version="13.10.3" type="github" pages="3">
   <diagram id="FgyFkXJcIKG0fMY5ibd2" name="Project Explorer">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="S2QvFrK3PuCgfU6eUb4U-0" />
         <mxCell id="S2QvFrK3PuCgfU6eUb4U-1" parent="S2QvFrK3PuCgfU6eUb4U-0" />
@@ -159,6 +159,32 @@
             <mxPoint y="25" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ifbp_-2VRm2IbCwh_HBl-1" value="不能夠新增與刪除" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;align=left;" vertex="1" parent="S2QvFrK3PuCgfU6eUb4U-1">
+          <mxGeometry x="-110" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifbp_-2VRm2IbCwh_HBl-2" value="" style="endArrow=classic;html=1;fontSize=14;entryX=-0.02;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="S2QvFrK3PuCgfU6eUb4U-1" source="Ifbp_-2VRm2IbCwh_HBl-1" target="F_466ytePDx-1a6FgnFO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="330" as="sourcePoint" />
+            <mxPoint y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ifbp_-2VRm2IbCwh_HBl-3" value="可新增&lt;br&gt;可刪除&lt;br&gt;可重命名" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fontSize=14;align=left;" vertex="1" parent="S2QvFrK3PuCgfU6eUb4U-1">
+          <mxGeometry x="-70" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ifbp_-2VRm2IbCwh_HBl-4" value="" style="endArrow=classic;html=1;fontSize=14;entryX=-0.05;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#FF0000;strokeWidth=3;" edge="1" source="Ifbp_-2VRm2IbCwh_HBl-3" parent="S2QvFrK3PuCgfU6eUb4U-1" target="F_466ytePDx-1a6FgnFO-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="430" as="sourcePoint" />
+            <mxPoint x="128" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TYJa8HcFWYtDeuU95z9D" name="Signal File">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="daI-n-khhlpTVpHMfqZn-0" />
+        <mxCell id="daI-n-khhlpTVpHMfqZn-1" parent="daI-n-khhlpTVpHMfqZn-0" />
       </root>
     </mxGraphModel>
   </diagram>
