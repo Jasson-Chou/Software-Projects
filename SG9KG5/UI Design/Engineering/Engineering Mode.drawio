@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T23:00:41.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="O73Nch1G6CfegBLJEMLY" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-29T23:02:20.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="acuo54gV1-PbLTU8b1i2" version="13.10.4" type="github" pages="2">
   <diagram id="maOx1XsRYjcgwQs69Y0I" name="Page-2">
-    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XY6I7VqYXuVsZNoMsVeR-0" />
         <mxCell id="XY6I7VqYXuVsZNoMsVeR-1" parent="XY6I7VqYXuVsZNoMsVeR-0" />
@@ -179,13 +179,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-56" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-57">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-57">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-58" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="30" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-59" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-60" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-60" value="Pattern1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-61" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
@@ -194,13 +197,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-62" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-58">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-63" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="60" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-64" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-65" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-65" value="Pattern2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-66" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
@@ -209,13 +215,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-67" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-105" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-63">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-68" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="90" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-69" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-70" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-70" value="Pattern3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-71" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
@@ -224,13 +233,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-72" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-68">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-73" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="120" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-75" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-75" value="Pattern4" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-76" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
@@ -239,13 +251,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-77" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-107" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-73">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-78" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="150" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-79" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-80" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-80" value="Pattern5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-81" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
@@ -254,13 +269,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-82" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-78">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-83" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="180" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-84" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-85" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-85" value="Pattern6" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-86" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
@@ -269,13 +287,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-87" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-83">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-88" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="210" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-89" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-90" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-90" value="Pattern7" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-91" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
@@ -284,13 +305,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-92" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-110" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-88">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-93" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="240" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-94" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-95" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-95" value="Pattern8" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-96" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
@@ -299,13 +323,16 @@
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-97" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-93">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
+        </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-98" value="" style="group" vertex="1" connectable="0" parent="GESPt3fLsgeeLDVvOT6Z-51">
           <mxGeometry y="270" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-99" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GESPt3fLsgeeLDVvOT6Z-100" value="Pattern Name" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-100" value="Pattern9" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
           <mxGeometry x="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-101" value="Progress" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
@@ -313,6 +340,9 @@
         </mxCell>
         <mxCell id="GESPt3fLsgeeLDVvOT6Z-102" value="Status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6C767D;strokeWidth=1;fillColor=none;fontColor=#6C767D;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;sketch=0;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
           <mxGeometry x="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GESPt3fLsgeeLDVvOT6Z-112" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/18/check-box-outline-128.png;shadow=0;sketch=0;strokeColor=#CCCCCC;" vertex="1" parent="GESPt3fLsgeeLDVvOT6Z-98">
+          <mxGeometry x="7.5" y="7.5" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
