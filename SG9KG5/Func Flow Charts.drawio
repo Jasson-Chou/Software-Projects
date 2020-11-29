@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T11:15:04.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="tovNdqgRJ837sy7GBvaT" version="13.10.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-29T11:21:07.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="WDXf1hmiDkvSfjWaN8NX" version="13.10.4" type="github" pages="6">
   <diagram id="CLCqSObVHe3IbGMdNRET" name="System Initialize">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,6 +196,39 @@
       <root>
         <mxCell id="PvQMEX85wnhJIoYw2e2c-0" />
         <mxCell id="PvQMEX85wnhJIoYw2e2c-1" parent="PvQMEX85wnhJIoYw2e2c-0" />
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PvQMEX85wnhJIoYw2e2c-1" source="plT-K8rLZUKvaydS7_1G-0" target="plT-K8rLZUKvaydS7_1G-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plT-K8rLZUKvaydS7_1G-0" value="在Explorer選擇要增加的欄位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="PvQMEX85wnhJIoYw2e2c-1" source="plT-K8rLZUKvaydS7_1G-1" target="plT-K8rLZUKvaydS7_1G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plT-K8rLZUKvaydS7_1G-1" value="滑鼠右鍵，按下Add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="PvQMEX85wnhJIoYw2e2c-1" source="plT-K8rLZUKvaydS7_1G-2" target="nXfgh-esFS6fGwPoKdRQ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="plT-K8rLZUKvaydS7_1G-2" value="輸入檔案名稱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PvQMEX85wnhJIoYw2e2c-1" source="nXfgh-esFS6fGwPoKdRQ-0" target="nXfgh-esFS6fGwPoKdRQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PvQMEX85wnhJIoYw2e2c-1" source="nXfgh-esFS6fGwPoKdRQ-0" target="nXfgh-esFS6fGwPoKdRQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-0" value="查看檔案名稱是否重複" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="321" y="380" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-1" value="按下建立" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nXfgh-esFS6fGwPoKdRQ-2" value="顯示錯誤訊息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PvQMEX85wnhJIoYw2e2c-1">
+          <mxGeometry x="507" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
