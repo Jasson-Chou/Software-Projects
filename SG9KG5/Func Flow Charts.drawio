@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T11:25:39.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="9HDlZb5DVvinKFk_qfbc" version="13.10.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-11-29T11:29:45.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="oUY0xRMMWKJHLwLHX0QI" version="13.10.4" type="github" pages="6">
   <diagram id="CLCqSObVHe3IbGMdNRET" name="System Initialize">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,27 @@
       <root>
         <mxCell id="79wn8bedS_qqFLUmvUWi-0" />
         <mxCell id="79wn8bedS_qqFLUmvUWi-1" parent="79wn8bedS_qqFLUmvUWi-0" />
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="79wn8bedS_qqFLUmvUWi-1" source="D0wWkdwv5j9zz-P8JfyV-0" target="uUCTiHdpj4ZPjWV75ZNf-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D0wWkdwv5j9zz-P8JfyV-0" value="使用者按下建立標頭檔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="79wn8bedS_qqFLUmvUWi-1">
+          <mxGeometry x="336" y="80" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="79wn8bedS_qqFLUmvUWi-1" source="uUCTiHdpj4ZPjWV75ZNf-0" target="uUCTiHdpj4ZPjWV75ZNf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="79wn8bedS_qqFLUmvUWi-1" source="uUCTiHdpj4ZPjWV75ZNf-0" target="uUCTiHdpj4ZPjWV75ZNf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-0" value="驗證所有資料正確性" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="79wn8bedS_qqFLUmvUWi-1">
+          <mxGeometry x="331" y="200" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-1" value="建立標頭檔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="79wn8bedS_qqFLUmvUWi-1">
+          <mxGeometry x="210" y="290" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uUCTiHdpj4ZPjWV75ZNf-2" value="顯示錯誤訊息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="79wn8bedS_qqFLUmvUWi-1">
+          <mxGeometry x="470" y="290" width="156" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
