@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T18:51:32.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="Ai_XuGM4_al5El1sf61t" version="13.10.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-02T19:51:39.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="zveM3BDGMeioiA7rWd-7" version="13.10.5" type="github" pages="7">
   <diagram id="Ql10g_WrEsumphI-Fsw1" name="System Initialize">
     <mxGraphModel dx="649" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-XXgh8Zy2X-yxBPhxNz4" name="Engineering Mode">
-    <mxGraphModel dx="927" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="927" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="w2vAADfWbnK5ulU1pY40-0" />
         <mxCell id="w2vAADfWbnK5ulU1pY40-1" parent="w2vAADfWbnK5ulU1pY40-0" />
@@ -468,7 +468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WO26Lx-D6SKTTH3rByUe" name="DC Instrument Tool">
-    <mxGraphModel dx="541" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XqRNCGglHIW--DDoDNY_-0" />
         <mxCell id="XqRNCGglHIW--DDoDNY_-1" parent="XqRNCGglHIW--DDoDNY_-0" />
@@ -542,7 +542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="shbMxnCTegjT-ehsamHS" name="AC Instrument Tool">
-    <mxGraphModel dx="448" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="448" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8W2GMjAGWGNmBZp0ahGz-0" />
         <mxCell id="8W2GMjAGWGNmBZp0ahGz-1" parent="8W2GMjAGWGNmBZp0ahGz-0" />
@@ -572,6 +572,32 @@
             <mxPoint x="200" y="390" as="sourcePoint" />
             <mxPoint x="380" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="edQT46VPSRT1xzx-3rhp" name="Sign In">
+    <mxGraphModel dx="649" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-0" />
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-1" parent="mnG6spQCWf8xIOBdl-RK-0" />
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-2" value="SignInSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-1">
+          <mxGeometry x="254" y="130" width="160" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-3" value="+ UserName: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-2">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-6" value="+ Password: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-2">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-8" value="+ ErrorMessage: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-2">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-2">
+          <mxGeometry y="104" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="mnG6spQCWf8xIOBdl-RK-5" value="+ Validation(void): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mnG6spQCWf8xIOBdl-RK-2">
+          <mxGeometry y="112" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
