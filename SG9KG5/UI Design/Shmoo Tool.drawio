@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T02:13:05.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7F97JbfHy74W12B8mSDC" version="13.10.0" type="github" pages="3">
-  <diagram id="Tp786EVnotHfGRpUQWPd" name="Page-3">
-    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-12-07T02:16:06.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="UwSFipWCdcfp42WGvwPf" version="13.10.0" type="github" pages="3">
+  <diagram id="Tp786EVnotHfGRpUQWPd" name="Shmoo Tool">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="zK_olVeYH397ab8MV41Q-0" />
         <mxCell id="zK_olVeYH397ab8MV41Q-1" parent="zK_olVeYH397ab8MV41Q-0" />
@@ -138,7 +138,7 @@
           <mxGeometry x="842.9808510638297" y="40" width="156.38297872340428" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JwK6Ynu5KuzLSR-e6iM2-171" value="Refresh" style="rounded=1;align=center;fillColor=#F1F2F4;html=1;fontColor=#596780;fontSize=12;strokeColor=none;shadow=1;" vertex="1" parent="JwK6Ynu5KuzLSR-e6iM2-2">
-          <mxGeometry x="860" y="150" width="70" height="23" as="geometry" />
+          <mxGeometry x="790" y="150" width="70" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JwK6Ynu5KuzLSR-e6iM2-172" value="" style="group" vertex="1" connectable="0" parent="JwK6Ynu5KuzLSR-e6iM2-2">
           <mxGeometry x="789.9955319148937" y="115" width="156.38297872340428" height="20" as="geometry" />
@@ -158,6 +158,9 @@
           <mxGeometry y="0.5" width="10" height="8" relative="1" as="geometry">
             <mxPoint x="6" y="-5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JwK6Ynu5KuzLSR-e6iM2-177" value="Color Setting" style="rounded=1;align=center;fillColor=#F1F2F4;html=1;fontColor=#596780;fontSize=12;strokeColor=none;shadow=1;" vertex="1" parent="JwK6Ynu5KuzLSR-e6iM2-2">
+          <mxGeometry x="876.38" y="150" width="93.62" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JwK6Ynu5KuzLSR-e6iM2-28" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;sketch=0;" vertex="1" parent="zK_olVeYH397ab8MV41Q-1">
           <mxGeometry x="170" y="300" width="600" height="490" as="geometry" />
