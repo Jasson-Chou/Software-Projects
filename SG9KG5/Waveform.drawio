@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T02:13:55.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XAPKUykhCfQC1XNflVuk" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-01T02:17:53.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PwfMirXgane47fhf8ZdD" version="14.1.9" type="github" pages="4">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -799,17 +799,25 @@
         <mxCell id="Ga32kU9AMGSPW-FRSP9r-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ga32kU9AMGSPW-FRSP9r-1" source="Ga32kU9AMGSPW-FRSP9r-6" target="Ga32kU9AMGSPW-FRSP9r-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ga32kU9AMGSPW-FRSP9r-6" value="Get All Cycle Size" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-6" value="Get All Cycle Size&lt;br&gt;from Kerenl" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
           <mxGeometry x="370" y="250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ga32kU9AMGSPW-FRSP9r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ga32kU9AMGSPW-FRSP9r-1" source="Ga32kU9AMGSPW-FRSP9r-7" target="Ga32kU9AMGSPW-FRSP9r-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ga32kU9AMGSPW-FRSP9r-1" source="Ga32kU9AMGSPW-FRSP9r-7" target="Ga32kU9AMGSPW-FRSP9r-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Ga32kU9AMGSPW-FRSP9r-7" value="Get Point Size Per Cycle&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-7" value="Allocate Cycle Memory &lt;br&gt;in GUI&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
           <mxGeometry x="350" y="370" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ga32kU9AMGSPW-FRSP9r-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
-          <mxGeometry x="435" y="480" width="30" height="30" as="geometry" />
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="Ga32kU9AMGSPW-FRSP9r-1" source="Ga32kU9AMGSPW-FRSP9r-12" target="Ga32kU9AMGSPW-FRSP9r-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-12" value="Get Point Size of Cycle from Kernel" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
+          <mxGeometry x="370" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ga32kU9AMGSPW-FRSP9r-13" value="Allocate Points Memory &lt;br&gt;in GUI&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="Ga32kU9AMGSPW-FRSP9r-1">
+          <mxGeometry x="350" y="590" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
