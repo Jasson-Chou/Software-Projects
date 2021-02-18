@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T08:44:26.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="0BYB38_GM4pvy4oef74L" version="14.2.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-18T08:45:38.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="2TjwUAb6R51uxfgJWt1E" version="14.2.9" type="github" pages="6">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1279,6 +1279,9 @@
       <root>
         <mxCell id="YWNPgftqHFPEctNyOWTI-0" />
         <mxCell id="YWNPgftqHFPEctNyOWTI-1" parent="YWNPgftqHFPEctNyOWTI-0" />
+        <mxCell id="20ZsP1CX72C5rHFQGRZc-0" value="Data Setter Getter" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="YWNPgftqHFPEctNyOWTI-1">
+          <mxGeometry x="30" y="30" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
