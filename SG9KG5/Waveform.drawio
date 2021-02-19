@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T08:55:22.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="uab2K5vbfvig4UrxYeTM" version="14.2.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-19T08:59:42.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="zYw_rS97hyIh6PMkxCe6" version="14.2.9" type="github" pages="7">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -574,12 +574,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0PPNvmlR1S7s3aPj3Cjj" name="WF Class Diagram">
-    <mxGraphModel dx="2012" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eVhaQwpScmR_1w1Q1RF4-0" />
         <mxCell id="eVhaQwpScmR_1w1Q1RF4-1" parent="eVhaQwpScmR_1w1Q1RF4-0" />
         <mxCell id="eVhaQwpScmR_1w1Q1RF4-2" value="DrawingWaveformContext" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="eVhaQwpScmR_1w1Q1RF4-1" vertex="1">
-          <mxGeometry x="-380" y="-510" width="350" height="814" as="geometry" />
+          <mxGeometry x="-380" y="-510" width="350" height="840" as="geometry" />
         </mxCell>
         <mxCell id="eVhaQwpScmR_1w1Q1RF4-28" value="+ RenderProperty: RenderProperty" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eVhaQwpScmR_1w1Q1RF4-2" vertex="1">
           <mxGeometry y="26" width="350" height="26" as="geometry" />
@@ -673,6 +673,9 @@
         </mxCell>
         <mxCell id="Gn74bDVNx87lV6xm10JT-15" value="- DrawingI(Void ): Void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="eVhaQwpScmR_1w1Q1RF4-2" vertex="1">
           <mxGeometry y="788" width="350" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IgWY1YxJtTUL1Lek0LqO-0" value="- IndexerSearch( int, List&lt;int&gt;): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eVhaQwpScmR_1w1Q1RF4-2">
+          <mxGeometry y="814" width="350" height="26" as="geometry" />
         </mxCell>
         <mxCell id="eVhaQwpScmR_1w1Q1RF4-6" value="VisualPage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="eVhaQwpScmR_1w1Q1RF4-1" vertex="1">
           <mxGeometry x="-597.5" y="-412" width="200" height="112" as="geometry" />
