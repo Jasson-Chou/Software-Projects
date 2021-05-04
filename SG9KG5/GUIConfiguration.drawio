@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T02:47:54.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="n4SGN7KEezU1N3oexZRm" version="13.10.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-04T02:48:17.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="yyc8HbN9b_D_8qmLS34t" version="13.10.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         <mxCell id="R2CkASbWOf3mzK9Li32K-44" value="+ PatternRowCntOfUnit: uint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R2CkASbWOf3mzK9Li32K-36" vertex="1">
           <mxGeometry y="182" width="278" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="R2CkASbWOf3mzK9Li32K-45" value="+ PinItemsSource: List&lt;Pin&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R2CkASbWOf3mzK9Li32K-36" vertex="1">
+        <mxCell id="R2CkASbWOf3mzK9Li32K-45" value="+ AlonePinItemsSource: List&lt;Pin&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R2CkASbWOf3mzK9Li32K-36" vertex="1">
           <mxGeometry y="208" width="278" height="26" as="geometry" />
         </mxCell>
         <mxCell id="R2CkASbWOf3mzK9Li32K-55" value="+ InterfaceCardItemsSource: List&lt;InterfaceCard&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="R2CkASbWOf3mzK9Li32K-36" vertex="1">
