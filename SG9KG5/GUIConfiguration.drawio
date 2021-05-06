@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T02:46:28.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="ka0-FA8Q6L3lrthWPwkL" version="13.10.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T03:03:36.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="C6gSACAKia55b0YetbkS" version="13.10.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -672,6 +672,86 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_GhqPNdmP0LmYJ-bfOT2" name="File Read Write FlowChart">
+    <mxGraphModel dx="2500" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-0" />
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-1" parent="M79kKyqQwrmNMRaxOYbg-0" />
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-3" value="Write Flow Chart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="300" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-4" target="M79kKyqQwrmNMRaxOYbg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-4" target="M79kKyqQwrmNMRaxOYbg-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="M79kKyqQwrmNMRaxOYbg-9">
+          <mxGeometry x="-0.8413" y="-3" relative="1" as="geometry">
+            <mxPoint x="-22" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-4" value="Is File Path Valid?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="280" y="320" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-5" target="M79kKyqQwrmNMRaxOYbg-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-20" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="M79kKyqQwrmNMRaxOYbg-14">
+          <mxGeometry x="-0.7689" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-5" target="M79kKyqQwrmNMRaxOYbg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-5" value="Is File Exists?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="280" y="520" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-8" value="return false" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="-70" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-13" target="M79kKyqQwrmNMRaxOYbg-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-13" value="Delete File" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="580" y="640" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-15" value="Write File" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="305" y="920" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-22" target="M79kKyqQwrmNMRaxOYbg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="355" y="110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-25" target="M79kKyqQwrmNMRaxOYbg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-25" target="M79kKyqQwrmNMRaxOYbg-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-25" value="Is File Dir Exists?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="280" y="690" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="M79kKyqQwrmNMRaxOYbg-1" source="M79kKyqQwrmNMRaxOYbg-29" target="M79kKyqQwrmNMRaxOYbg-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M79kKyqQwrmNMRaxOYbg-29" value="Gen Folders" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="M79kKyqQwrmNMRaxOYbg-1">
+          <mxGeometry x="30" y="810" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
