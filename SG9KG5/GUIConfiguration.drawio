@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T02:14:23.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="ktCu8nKR2_4MR7r3P3Dc" version="13.10.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-06T02:46:28.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36 Edg/90.0.818.49" etag="ka0-FA8Q6L3lrthWPwkL" version="13.10.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IiDlH3cJ2daCkO8JY-Nc" name="Class Diagram">
-    <mxGraphModel dx="2467" dy="1623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JoJN99l91C5nv3z_q42w-0" />
         <mxCell id="JoJN99l91C5nv3z_q42w-1" parent="JoJN99l91C5nv3z_q42w-0" />
@@ -639,7 +639,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rwu1W1-wn-umZnUj2bdp-10" value="ConfigManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="JoJN99l91C5nv3z_q42w-1">
-          <mxGeometry x="398.5" y="-200" width="227" height="190" as="geometry" />
+          <mxGeometry x="398.5" y="-227" width="227" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Rwu1W1-wn-umZnUj2bdp-11" value="+ TesterConfig: TesterConfig" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rwu1W1-wn-umZnUj2bdp-10">
           <mxGeometry y="26" width="227" height="26" as="geometry" />
@@ -661,6 +661,17 @@
         </mxCell>
         <mxCell id="Rwu1W1-wn-umZnUj2bdp-16" value="+ Write(string): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Rwu1W1-wn-umZnUj2bdp-10">
           <mxGeometry y="164" width="227" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Rwu1W1-wn-umZnUj2bdp-18" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0.504;entryY=1.071;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="JoJN99l91C5nv3z_q42w-1" source="R2CkASbWOf3mzK9Li32K-15" target="Rwu1W1-wn-umZnUj2bdp-16">
+          <mxGeometry x="-0.7734" y="-18" relative="1" as="geometry">
+            <mxPoint x="248" y="8" as="sourcePoint" />
+            <mxPoint x="408" y="8" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="512" y="30" />
+              <mxPoint x="513" y="30" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
