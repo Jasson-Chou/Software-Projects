@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T07:36:50.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="zTBg-JLteCcC8Kl8E-h0" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-30T07:39:11.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="JRCcZ1JBEzeyZn07l6ZO" version="14.7.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3327" dy="2103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -333,7 +333,18 @@
           <mxGeometry x="-872" y="-1039" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-25" value="OS exe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-452" y="-1039" width="120" height="60" as="geometry" />
+          <mxGeometry x="-599" y="-1039" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-26" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-24" target="mJ2Yfo1aPZkFYC3O0aXI-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="-987" as="sourcePoint" />
+            <mxPoint x="-590" y="-1037" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-27" value="TCP Communication" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mJ2Yfo1aPZkFYC3O0aXI-26">
+          <mxGeometry x="-0.381" y="3" relative="1" as="geometry">
+            <mxPoint x="29" y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
