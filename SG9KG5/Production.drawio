@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T02:54:37.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="0raerw3nMwvflkjGH3oX" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-30T03:46:44.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="BiGJK2QFj9wA-qhXN03b" version="14.7.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3327" dy="2103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="osNyrSHT3eNxlnk6y9xx-14" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-786" y="-118.5" as="sourcePoint" />
-            <mxPoint x="1012" y="-118" as="targetPoint" />
+            <mxPoint x="1361" y="-118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="osNyrSHT3eNxlnk6y9xx-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-15" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
@@ -294,11 +294,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-9" target="mJ2Yfo1aPZkFYC3O0aXI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-9" value="Waiting for Current DUT Test Done" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="765.5" y="58" width="235" height="107" as="geometry" />
         </mxCell>
         <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-13" value="Start Production Process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="537" y="49" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-16" target="mJ2Yfo1aPZkFYC3O0aXI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-16" value="End Lot Process with OS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="823" y="219" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-18" target="mJ2Yfo1aPZkFYC3O0aXI-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1075" y="335" />
+              <mxPoint x="1075" y="-118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-18" value="Hide Busy Indicator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="793" y="315" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-20" value="Show End Lot Done &lt;br&gt;Message" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1121" y="-138" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
