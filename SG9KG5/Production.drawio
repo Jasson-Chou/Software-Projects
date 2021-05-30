@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T08:35:00.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="RGKVpFbJ6ONCvkBgOhzQ" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-30T08:40:20.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="8mHOjn7xM7Np1lmVJq-R" version="14.7.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3327" dy="2103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2635" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -171,11 +171,11 @@
         <mxCell id="osNyrSHT3eNxlnk6y9xx-54" value="Production Page" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="537" y="-138" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="osNyrSHT3eNxlnk6y9xx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-77" target="osNyrSHT3eNxlnk6y9xx-54" edge="1">
+        <mxCell id="osNyrSHT3eNxlnk6y9xx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-46" target="osNyrSHT3eNxlnk6y9xx-54" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="358" y="501" as="sourcePoint" />
+            <mxPoint x="357.9699999999998" y="679" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="486" y="594" />
+              <mxPoint x="486" y="605" />
               <mxPoint x="486" y="-118" />
             </Array>
           </mxGeometry>
@@ -234,27 +234,16 @@
         <mxCell id="osNyrSHT3eNxlnk6y9xx-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-67" target="osNyrSHT3eNxlnk6y9xx-71" edge="1">
           <mxGeometry x="-62.03" y="-45" as="geometry" />
         </mxCell>
-        <mxCell id="osNyrSHT3eNxlnk6y9xx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-74" target="osNyrSHT3eNxlnk6y9xx-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="osNyrSHT3eNxlnk6y9xx-74" value="OS Load Project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="237.97" y="500" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="osNyrSHT3eNxlnk6y9xx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-71" target="osNyrSHT3eNxlnk6y9xx-74" edge="1">
+        <mxCell id="osNyrSHT3eNxlnk6y9xx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-71" target="mJ2Yfo1aPZkFYC3O0aXI-48" edge="1">
           <mxGeometry x="-62.03" y="-45" as="geometry">
-            <Array as="points">
-              <mxPoint x="297.97" y="500" />
-            </Array>
-            <mxPoint x="392.97" y="491" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="297.9699999999998" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="osNyrSHT3eNxlnk6y9xx-76" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="osNyrSHT3eNxlnk6y9xx-75" vertex="1" connectable="0">
           <mxGeometry x="-0.281" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="osNyrSHT3eNxlnk6y9xx-77" value="Initialization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="237.97" y="574" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="osNyrSHT3eNxlnk6y9xx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-78" target="osNyrSHT3eNxlnk6y9xx-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -386,6 +375,15 @@
         </mxCell>
         <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-43" value="Reset Production Process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2.0300000000000002" y="375" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-46" value="OS Load Project" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="237.97" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-48" target="mJ2Yfo1aPZkFYC3O0aXI-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-48" value="Record Last Project Info in SGProduction.ini File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="204.98" y="498" width="186.03" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
