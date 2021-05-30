@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T08:06:00.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="qmk9G9jwscRzjBJN9K32" version="14.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-30T08:30:12.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36 Edg/91.0.864.37" etag="wdJ9vcTfuABxLMc_FZKA" version="14.7.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2635" dy="1717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
         <mxCell id="osNyrSHT3eNxlnk6y9xx-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-62" target="osNyrSHT3eNxlnk6y9xx-67" edge="1">
           <mxGeometry x="-62.03" y="-45" as="geometry" />
         </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="osNyrSHT3eNxlnk6y9xx-71" target="mJ2Yfo1aPZkFYC3O0aXI-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="osNyrSHT3eNxlnk6y9xx-71" value="User Confirm Info." style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="235.47" y="355" width="125" height="80" as="geometry" />
         </mxCell>
@@ -368,6 +371,21 @@
           <mxGeometry x="0.1705" relative="1" as="geometry">
             <mxPoint x="-3" y="-13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-40" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;G3&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;SG9000.ini&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;strike&gt;[Last] Section&lt;/strike&gt;&lt;/div&gt;&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;strike&gt;[Automation] Section&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1189" y="-930" width="180" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-41" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;G5&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#ff3333&quot;&gt;SGProduction.ini&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-952" y="-929" width="174" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-42" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mJ2Yfo1aPZkFYC3O0aXI-40" target="mJ2Yfo1aPZkFYC3O0aXI-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1028" y="-788" as="sourcePoint" />
+            <mxPoint x="-978" y="-838" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mJ2Yfo1aPZkFYC3O0aXI-43" value="Reset Production Process" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2.0300000000000002" y="375" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
